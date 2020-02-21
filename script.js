@@ -6,8 +6,7 @@ window.addEventListener("DOMContentLoaded", function() {
     quote3 = document.querySelector(".quote3"),
     item1 = document.querySelector(".item1"),
     item2 = document.querySelector(".item2"),
-    item3 = document.querySelector(".item3"),
-    item4 = document.querySelector(".item3");
+    item3 = document.querySelector(".item3");
 
   item1.addEventListener("click", function() {
     quote1.style.opacity = "1";
